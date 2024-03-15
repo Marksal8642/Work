@@ -1,0 +1,9 @@
+- Install the application.
+
+- Let it load completely and close it also from tray. End WPS Writer process under task manager.
+
+- Swap the file in the following path:
+
+C:\Users\[Username]\AppData\Local\Kingsoft\WPS Office\11.2.0.8970\office6
+
+- You can block using a firewall for safety. Don't update it.
